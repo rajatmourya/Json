@@ -1,0 +1,44 @@
+{
+    "users": [
+        {
+            "firstName": "Graham",
+            "lastName": "Bell",
+            "age": 30,
+            "hobbies": [
+                "reading",
+                "writing"
+            ],
+            "friends": [
+                {
+                    "firstName": "Isaac",
+                    "lastName": "Newton"
+                }
+            ]
+        },
+        {
+            "firstName": "Isaac",
+            "lastName": "Newton",
+            "age": 40,
+            "hobbies": [
+                "Gamming",
+                "writing"
+            ],
+            "friends": [
+                {
+                    "firstName": "Graham",
+                    "lastName": "Bell"
+                }
+            ]
+        }
+    ],
+    "subjects": [
+        {
+            "name": "Automation",
+            "id": 1
+        },
+        {
+            "name": "Json",
+            "id": 2
+        }
+    ]
+}
